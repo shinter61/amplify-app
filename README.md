@@ -1,3 +1,6 @@
+Start AWS Amplify.
+https://aws.amazon.com/jp/getting-started/hands-on/deploy-react-app-cicd-amplify/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
